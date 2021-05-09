@@ -8,7 +8,8 @@
 ![Image of Portfolio](https://imgur.com/a/WmolZmD)
 
 ## General info
-	This project was designed to introduce us to an in-depth look at both HTML and CSS through creating a website from scratch.
+This project was designed to introduce us to an in-depth look at both HTML and CSS through creating a website from scratch. In addition to further developing our ability with the two front-end applications, the activity also introduced us to our first look at what a portfolio should look like, and how having a well-polished one could greatly benefit your career-finding opportunities. 
+
 ## Technologies
 Project is created with:
 * CSS
@@ -17,6 +18,10 @@ Project is created with:
 ## Resources
 * https://www.webfx.com/blog/web-design/circular-images-css/#:~:text=The%20main%20CSS%20property%20responsible%20for%20the%20circular%20shape%20is,height%20results%20in%20a%20circle.
 * https://www.tutorialspoint.com/html/html_email_links.htm
+
+## Troubleshooting
+The following issues arised during the activity, some of which weren't able to be solved in this website mockup.
+*A fadeIn 
 
 
 ## Acknowledgements

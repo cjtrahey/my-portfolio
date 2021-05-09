@@ -5,7 +5,7 @@
 * [Troubleshooting](#troubleshooting)
 * [Acknowledgements](#acknowledgements)
 
-![Image of Portfolio](gyazo.com/118f6e0a4a73e3f785c21e6671270e0a)
+![Image of Portfolio](https://imgur.com/a/WmolZmD)
 
 ## General info
 	This project was designed to introduce us to an in-depth look at both HTML and CSS through creating a website from scratch.

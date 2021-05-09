@@ -1,29 +1,23 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Recources](#resources)
+* [Troubleshooting](#troubleshooting)
 * [Acknowledgements](#acknowledgements)
 
-https://gyazo.com/01668b5b5b74ddce375f9e38adfc182b
+![Image of Portfolio](https://gyazo.com/118f6e0a4a73e3f785c21e6671270e0a)
 
 ## General info
-This project is a website designed to introduce the class to what a real-world project would look like and how a properly-functioning website could potentially affect that business's success.
-	
+	This project was designed to introduce us to an in-depth look at both HTML and CSS through creating a website from scratch.
 ## Technologies
 Project is created with:
 * CSS
 * HTML
 	
 ## Resources
-* https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
-* https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+* https://www.webfx.com/blog/web-design/circular-images-css/#:~:text=The%20main%20CSS%20property%20responsible%20for%20the%20circular%20shape%20is,height%20results%20in%20a%20circle.
+* https://www.tutorialspoint.com/html/html_email_links.htm
 
 
 ## Acknowledgements
-The Horiseon Project Assignment was created with the assistance of the following classmates: <br>
-* Ishya Casukhela 
-* Justin Smith
-* Kristie Blankenship
-* Nicholas Herold
-* Allen Ladd 
-* Ahmad Kane
-
+<br>

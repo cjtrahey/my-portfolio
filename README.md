@@ -11,7 +11,7 @@
 This project was designed to introduce us to an in-depth look at both HTML and CSS through creating a website from scratch. In addition to further developing our ability with the two front-end applications, the activity also introduced us to our first look at what a portfolio should look like, and how having a well-polished one could greatly benefit your career-finding opportunities. 
 
 ## Technologies
-Project is created with:
+Project is created with: <br>
 * CSS
 * HTML
 	
@@ -20,9 +20,17 @@ Project is created with:
 * https://www.tutorialspoint.com/html/html_email_links.htm
 
 ## Troubleshooting
-The following issues arised during the activity, some of which weren't able to be solved in this website mockup.
-*A fadeIn 
-
+The following issues arose during the activity, some of which weren't able to be solved in this website mockup. <br>
+* A hover-over fadeIn effect was originally intended for multiple photos, however during testing the result would be all images fading in at the same time, defeating the purpose of the idea.
+* Some flex-box issues appeared, which can be solved in the future with repitition.
+* Images in .md files appear to not work whenever adding one was attempted.
 
 ## Acknowledgements
 <br>
+This project has been completed with assistance from the following people:
+<br>
+* Allen Ladd
+* Ange Lowery
+* Ishya Casukhela
+* Nicholas Herold
+* Kristie Blankenship

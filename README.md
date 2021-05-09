@@ -28,8 +28,5 @@ The following issues arose during the activity, some of which weren't able to be
 ## Acknowledgements
 <br>
 This project has been completed with assistance from the following people:
-* Allen Ladd
-* Ange Lowery
-* Ishya Casukhela
-* Kristie Blankenship
-* Nicholas Herold
+<br>
+Allen Ladd, Ange Lowery, Ishya Casukhela, Kristie Blankenship and Nicholas Herold

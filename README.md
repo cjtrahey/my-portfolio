@@ -32,5 +32,5 @@ This project has been completed with assistance from the following people:
 * Allen Ladd
 * Ange Lowery
 * Ishya Casukhela
-* Nicholas Herold
 * Kristie Blankenship
+* Nicholas Herold
